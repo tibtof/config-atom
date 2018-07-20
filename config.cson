@@ -1,5 +1,8 @@
 "*":
   core:
+    disabledPackages: [
+      "language-gfm"
+    ]
     telemetryConsent: "no"
   "exception-reporting":
     userId: "993c05e7-021c-4489-b32b-8b5c212bf749"
